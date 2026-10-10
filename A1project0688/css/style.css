@@ -36,6 +36,10 @@ h2 {
     padding-bottom: 5px;
 }
 
+h4 {
+    color: #543B40;
+}
+
 h6 {
     margin-top: 5px;
     color: #543B40;
@@ -66,8 +70,7 @@ a:hover {
 }
 
 .profile-img {
-    width: 250px;
-    display: block;
+    width: 400px;
     margin: 5px;
     border-radius: 12px;
 }
